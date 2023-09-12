@@ -25,13 +25,14 @@ Copy code
 mvn spring-boot:run
 La aplicación estará disponible en http://localhost:8080.
 
-Uso de la API REST
+## Uso de la API REST
 Enviar un Pedido
 Endpoint: /api/pedidos/enviar
 Método: POST
 Cuerpo de la Solicitud: JSON con los datos del pedido (ver ejemplo en la sección siguiente).
 Respuesta: JSON con los detalles del envío del pedido.
-Ejemplo de Solicitud JSON:
+
+## Ejemplo de Solicitud JSON:
 json
 Copy code
 {
@@ -42,7 +43,7 @@ Copy code
   "Cedula": "1113987400",
   "Direccion": "CR 72B 45 12 APT 301"
 }
-Ejemplo de Respuesta JSON:
+## Ejemplo de Respuesta JSON:
 json
 Copy code
 {
