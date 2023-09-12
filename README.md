@@ -1,7 +1,5 @@
 # acme-abastecimiento
 
-Descripción breve del proyecto y su propósito.
-
 ## Tabla de Contenidos
 
 - [Requisitos Previos](#requisitos-previos)
